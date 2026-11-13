@@ -22,7 +22,7 @@ while chore_num <= total_chores:
     print("Chores remaining: ", total_chores - completed_count)
     print()
 
-print("==== ALL CHORES COMPLETE! ====")
+print("===== ALL CHORES COMPLETE! =====")
 print ("Great work finishing your entire checklist today!\n")
 
 print("Now let's safely peek at an infinity loop...")
